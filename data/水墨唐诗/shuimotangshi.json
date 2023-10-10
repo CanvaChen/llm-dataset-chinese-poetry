@@ -1,880 +1,1056 @@
 [
   {
+    "id": "shuimotangshi#1",
     "title": "蜀先主庙",
     "author": "刘禹锡",
     "content": "天地英雄气，千秋尚凛然。\n势分三足鼎，业复五铢钱。\n得相能开国，生儿不象贤。\n凄凉蜀故伎，来舞魏宫前。"
   },
   {
+    "id": "shuimotangshi#2",
     "title": "新嫁娘",
     "author": "王建",
     "content": "三日入厨下，洗手作羹汤。\n未谙姑食性，先遣小姑尝。"
   },
   {
+    "id": "shuimotangshi#3",
     "title": "田家行",
     "author": "王建",
     "content": "男声欣欣女颜悦，人家不怨言语别。\n五月虽热麦风清，檐头索索缲车鸣。\n野蚕作茧人不取，叶间扑扑秋蛾生。\n麦收上场绢在轴，的知输得官家足。\n不望入口复上身，且免向城卖黄犊。\n田家衣食无厚薄，不见县门身即乐。"
   },
   {
+    "id": "shuimotangshi#4",
     "title": "野老歌",
     "author": "张籍",
     "content": "老农家贫在山住，耕种山田三四亩。\n苗疏税多不得食，输入官仓化为土。\n岁暮锄犁傍空室，呼儿登山收橡实。\n西江贾客珠百斛，船中养犬长食肉。"
   },
   {
+    "id": "shuimotangshi#5",
     "title": "没蕃故人",
     "author": "张籍",
     "content": "前年戍月支，城下没全师。\n蕃汉断消息，死生长别离。\n无人收废帐，归马识残旗。\n欲祭疑君在，天涯哭此时。"
   },
   {
+    "id": "shuimotangshi#6",
     "title": "游子吟",
     "author": "孟郊",
     "content": "慈母手中线，游子身上衣。\n临行密密缝，意恐迟迟归。\n谁言寸草心，报得三春晖。"
   },
   {
+    "id": "shuimotangshi#7",
     "title": "暖川",
     "author": "李益",
     "content": "胡风冻合䴙鹈泉，牛马千群逐暖川。\n塞外征行无尽日，年年移帐雪中天。"
   },
   {
+    "id": "shuimotangshi#8",
     "title": "从军北征",
     "author": "李益",
     "content": "天山雪后海风寒，横笛偏吹《行路难》。\n碛里征人三十万，一时回首月中看。"
   },
   {
+    "id": "shuimotangshi#9",
     "title": "夜上受降城闻笛",
     "author": "李益",
     "content": "回乐烽前沙似雪，受降城外月如霜。\n不知何处吹芦管，一夜征人尽望乡。"
   },
   {
+    "id": "shuimotangshi#10",
     "title": "水宿闻雁",
     "author": "李益",
     "content": "早雁忽为双，惊秋风水凉。\n夜长人自起，星月满空江。"
   },
   {
+    "id": "shuimotangshi#11",
     "title": "江南曲",
     "author": "李益",
     "content": "嫁得瞿塘贾，朝朝误妾期。\n早知潮有信，嫁与弄潮儿。"
   },
   {
+    "id": "shuimotangshi#12",
     "title": "送李端",
     "author": "卢纶",
     "content": "故关衰草遍，离别正堪悲。\n路出寒云外，人归暮雪时。\n少孤为客早，多难识君迟。\n掩泣空相向，风尘何所期。"
   },
   {
+    "id": "shuimotangshi#13",
     "title": "晚次鄂州",
     "author": "卢纶",
     "content": "云开远见洛阳城，犹见孤帆一日程。\n估客昼眠知浪静，舟人夜语觉潮生。"
   },
   {
+    "id": "shuimotangshi#14",
     "title": "塞下曲",
     "author": "卢纶",
     "content": "林暗草惊风，将军夜引弓。\n平明寻白羽，没在石棱中。"
   },
   {
+    "id": "shuimotangshi#15",
     "title": "寄李儋元锡",
     "author": "韦应物",
     "content": "去年花里逢君别，今日花开又一年。\n世事茫茫难自料，春愁黯黯独成眠。\n身多疾病思田里，邑有流亡愧俸钱。\n闻道欲来相问讯，西楼望月几回圆。"
   },
   {
+    "id": "shuimotangshi#16",
     "title": "赋得暮雨送李曹",
     "author": "韦应物",
     "content": "楚江微雨里，建业暮钟时。\n漠漠帆来重，冥冥鸟去迟。\n海门深不见，浦树远含滋。\n相送情无限，沾襟比散丝。"
   },
   {
+    "id": "shuimotangshi#17",
     "title": "夕次盱眙县",
     "author": "韦应物",
     "content": "落帆逗淮镇，停舫临孤驿。\n浩浩风起波，冥冥日沉夕。\n人归山郭暗，雁下芦洲白。\n独夜忆秦关，听钟未眠客。"
   },
   {
+    "id": "shuimotangshi#18",
     "title": "长安遇冯著",
     "author": "韦应物",
     "content": "客从东方来，衣上灞陵雨。\n问客何为来，采山因买斧。\n冥冥花正开，飏飏燕新乳。\n昨别今已春，鬓丝生几缕。"
   },
   {
+    "id": "shuimotangshi#19",
     "title": "初发杨子寄元大校书",
     "author": "韦应物",
     "content": "凄凄去亲爱，泛泛入烟雾。\n归棹洛阳人，残钟广陵树。\n今朝此为别，何处还相遇。\n世事波上舟，沿洄安得住？"
   },
   {
+    "id": "shuimotangshi#20",
     "title": "滁州西涧",
     "author": "韦应物",
     "content": "独怜幽草涧边生，上有黄鹂深树鸣。\n春潮带雨晚来急，野渡无人舟自横。"
   },
   {
+    "id": "shuimotangshi#21",
     "title": "秋夜寄邱员外",
     "author": "韦应物",
     "content": "怀君属秋夜，散步咏凉天。\n空山松子落，幽人应未眠。"
   },
   {
+    "id": "shuimotangshi#22",
     "title": "江乡故人偶集客舍",
     "author": "戴叔伦",
     "content": "天秋月又满，城阙夜千重。\n还作江南会，翻疑梦里逢。\n风枝惊暗鹊，露草泣寒虫。\n羁旅长堪醉，相留畏晓钟。"
   },
   {
+    "id": "shuimotangshi#23",
     "title": "题三闾大夫庙",
     "author": "戴叔伦",
     "content": "沅湘流不尽，屈子怨何深。\n日暮秋风起，萧萧枫树林。"
   },
   {
+    "id": "shuimotangshi#24",
     "title": "凉州曲",
     "author": "柳中庸",
     "content": "关山万里远征人，一望关山泪满巾。\n青海戍头空有月，黄沙碛里本无春。"
   },
   {
+    "id": "shuimotangshi#25",
     "title": "征人怨",
     "author": "柳中庸",
     "content": "岁岁金河复玉关，朝朝马策与刀环。\n三春白雪归青冢，万里黄河绕黑山。"
   },
   {
+    "id": "shuimotangshi#26",
     "title": "宫词",
     "author": "顾况",
     "content": "玉楼天半起笙歌，风送宫嫔笑语和。\n月殿影开闻夜漏，水精帘卷近秋河。"
   },
   {
+    "id": "shuimotangshi#27",
     "title": "过山农家",
     "author": "顾况",
     "content": "板桥人渡泉声，茅檐日午鸡鸣。\n莫嗔焙茶烟暗，却喜晒谷天晴。"
   },
   {
+    "id": "shuimotangshi#28",
     "title": "石窦泉",
     "author": "顾况",
     "content": "吹沙复喷石，曲折仍圆旋。\n野客漱流时，杯粘落花片。"
   },
   {
+    "id": "shuimotangshi#29",
     "title": "欹松漪",
     "author": "顾况",
     "content": "湛湛碧涟漪，老松欹侧卧。\n悠扬绿萝影，下拂波纹破。"
   },
   {
+    "id": "shuimotangshi#30",
     "title": "石上藤",
     "author": "顾况",
     "content": "空山无鸟迹，何物如人意。\n委曲结绳文，离披草书字。"
   },
   {
+    "id": "shuimotangshi#31",
     "title": "宿石涧店闻妇人哭",
     "author": "李端",
     "content": "山店门前一妇人，哀哀夜哭向秋云。\n自说夫因征战死，朝来逢着旧将军。"
   },
   {
+    "id": "shuimotangshi#32",
     "title": "芜城",
     "author": "李端",
     "content": "风吹城上树，草没城边路。\n城里月明时，精灵自来去。"
   },
   {
+    "id": "shuimotangshi#33",
     "title": "听筝",
     "author": "李端",
     "content": "鸣筝金粟柱，素手玉房前。\n欲得周郎顾，时时误拂弦。"
   },
   {
+    "id": "shuimotangshi#34",
     "title": "秋晚宿破山寺",
     "author": "皎然",
     "content": "秋风落叶满空山，古寺残灯石壁间。\n昔日经行人尽去，寒云夜夜自飞还。"
   },
   {
+    "id": "shuimotangshi#35",
     "title": "寻陆鸿渐不遇",
     "author": "皎然",
     "content": "移家虽带郭，野径入桑麻。\n近种篱边菊，秋来未著花。\n扣门无犬吠，欲去问西家。\n报道山中去，归时每日斜。"
   },
   {
+    "id": "shuimotangshi#36",
     "title": "江村即事",
     "author": "司空曙",
     "content": "钓罢归来不系船，江村月落正堪眠。\n纵然一夜风吹去，只在芦花浅水边。"
   },
   {
+    "id": "shuimotangshi#37",
     "title": "云阳馆与韩绅宿别",
     "author": "司空曙",
     "content": "故人江海别，几度隔山川。\n乍见翻疑梦，相悲各问年。\n孤灯寒照雨，深竹暗浮烟。\n更有明朝恨，离杯惜共传。"
   },
   {
+    "id": "shuimotangshi#38",
     "title": "喜外弟卢纶见宿",
     "author": "司空曙",
     "content": "静夜四无邻，荒居旧业贫。\n雨中黄叶树，灯下白头人。\n以我独沉久，愧君相见频。\n平生自有分，况是蔡家亲。"
   },
   {
+    "id": "shuimotangshi#39",
     "title": "留卢秦卿",
     "author": "司空曙",
     "content": "知有前期在，难分此夜中。\n无将故人酒，不及石尤风。"
   },
   {
+    "id": "shuimotangshi#40",
     "title": "酬李甫见赠",
     "author": "元稹",
     "content": "杜甫天才颇绝伦，每寻诗卷似情亲。\n怜渠直道当时语，不着心源傍古人。"
   },
   {
+    "id": "shuimotangshi#41",
     "title": "闻乐天授江州司马",
     "author": "元稹",
     "content": "残灯无焰影幢幢，此夕闻君谪九江。\n垂死病中惊坐起，暗风吹雨入寒窗。"
   },
   {
+    "id": "shuimotangshi#42",
     "title": "古筑城曲（二首）",
     "author": "元稹",
     "content": "筑城须努力，城高遮得贼。\n但恐贼路多，有城遮不得。"
   },
   {
+    "id": "shuimotangshi#43",
     "title": "寒食",
     "author": "韩竑",
     "content": "春城无处不飞花，寒食东风御柳斜。\n日暮汉宫传蜡烛，轻烟散入五侯家。"
   },
   {
+    "id": "shuimotangshi#44",
     "title": "枫桥夜泊",
     "author": "张继",
     "content": "月落乌啼霜满天，江枫渔火对愁眠。\n姑苏城外寒山寺，夜半钟声到客船。"
   },
   {
+    "id": "shuimotangshi#45",
     "title": "行宫",
     "author": "元稹",
     "content": "寥落古行宫，宫花寂寞红。\n白头宫女在，闲坐说玄宗。"
   },
   {
+    "id": "shuimotangshi#46",
     "title": "渔翁",
     "author": "柳宗元",
     "content": "渔翁夜傍西岩宿，晓汲清湘燃楚竹。\n烟销日出不见人，欸乃一声山水绿。\n回看天际下中流，岩上无心云相逐。"
   },
   {
+    "id": "shuimotangshi#47",
     "title": "江雪",
     "author": "柳宗元",
     "content": "千山鸟飞绝，万径人踪灭。\n孤舟蓑笠翁，独钓寒江雪。"
   },
   {
+    "id": "shuimotangshi#48",
     "title": "将牛何处去（二首）",
     "author": "元结",
     "content": "将牛何处去，耕彼故城东。\n相伴有田父，相欢惟牧童。"
   },
   {
+    "id": "shuimotangshi#49",
     "title": "月夜",
     "author": "刘方平",
     "content": "更深月色半人家，北斗阑干南斗斜。\n今夜偏知春气暖，虫声新透绿窗纱。"
   },
   {
+    "id": "shuimotangshi#50",
     "title": "采莲曲",
     "author": "刘方平",
     "content": "落日清江里，荆歌艳楚腰。\n采莲从小惯，十五即乘潮。"
   },
   {
+    "id": "shuimotangshi#51",
     "title": "春雪",
     "author": "刘方平",
     "content": "飞雪带春风，徘徊乱绕空。\n君看似花处，偏在洛城东。"
   },
   {
+    "id": "shuimotangshi#52",
     "title": "逢入京使",
     "author": "岑参",
     "content": "故园东望路漫漫，双袖龙钟泪不干。\n马上相逢无纸笔，凭君传语报平安。"
   },
   {
+    "id": "shuimotangshi#53",
     "title": "白雪歌送武判官归京",
     "author": "岑参",
     "content": "北风卷地白草折，胡天八月即飞雪。\n忽如一夜春风来，千树万树梨花开。\n散入珠帘湿罗幕，狐裘不暖锦衾薄。\n将军角弓不得控，都护铁衣冷难著。\n瀚海阑干百丈冰，愁云惨淡万里凝。\n中军置酒饮归客，胡琴琵琶与羌笛。\n纷纷暮雪下辕门，风掣红旗冻不翻。\n轮台东门送君去，去时雪满天山路。\n山回路转不见君，雪上空留马行处。"
   },
   {
+    "id": "shuimotangshi#54",
     "title": "苜蓿峰寄家人",
     "author": "岑参",
     "content": "苜蓿峰边逢立春，葫芦河上泪沾巾。\n闺中只是空相忆，不见沙场愁杀人。"
   },
   {
+    "id": "shuimotangshi#55",
     "title": "碛中作",
     "author": "岑参",
     "content": "走马西来欲到天，辞家见月两回圆。\n今夜未知何处宿，平沙万里绝人烟。"
   },
   {
+    "id": "shuimotangshi#56",
     "title": "山房春事",
     "author": "岑参",
     "content": "梁园日暮乱飞鸦，极目箫条三两家。\n庭树不知人去尽，春来还发旧时花。"
   },
   {
+    "id": "shuimotangshi#57",
     "title": "行军九日思长安故园",
     "author": "岑参",
     "content": "强欲登高去，无人送酒来。\n遥怜故园菊，应傍战场开。"
   },
   {
+    "id": "shuimotangshi#58",
     "title": "暮秋山行（节选）",
     "author": "岑参",
     "content": "疲马卧长坂，夕阳下通津。\n山风吹空林，飒飒如有人。"
   },
   {
+    "id": "shuimotangshi#59",
     "title": "题三会寺仓颉造字台",
     "author": "岑参",
     "content": "野寺荒台晚，寒天古木悲。\n空阶有鸟迹，犹似造书时。"
   },
   {
+    "id": "shuimotangshi#60",
     "title": "送李中丞归汉阳别业",
     "author": "刘长卿",
     "content": "流落征南将，曾驱十万师。\n罢归无旧业，老去恋明时。\n独立三边静，轻生一剑知。\n茫茫江汉上，日暮欲何之。"
   },
   {
+    "id": "shuimotangshi#61",
     "title": "秋日登吴公台上寺远眺",
     "author": "刘长卿",
     "content": "古台摇落后，秋入望乡心。\n野寺来人少，云峰隔水深。\n夕阳依旧垒，寒磬满空林。\n惆怅南朝事，长江独至今。"
   },
   {
+    "id": "shuimotangshi#62",
     "title": "寻南溪常道士",
     "author": "刘长卿",
     "content": "一路经行处，莓苔见屐痕。\n白云依静渚，芳草闭闲门。\n过雨看松色，随山到水源。\n溪花与禅意，相对亦忘言。"
   },
   {
+    "id": "shuimotangshi#63",
     "title": "送灵澈",
     "author": "刘长卿",
     "content": "苍苍竹林寺，杳杳种声晚。\n荷笠带斜阳，青山独归远。"
   },
   {
+    "id": "shuimotangshi#64",
     "title": "逢雪宿鞭蓉山主人",
     "author": "刘长卿",
     "content": "日暮苍山远，天寒白屋贫。\n柴门闻犬吠，风雪夜归人。"
   },
   {
+    "id": "shuimotangshi#65",
     "title": "早梅",
     "author": "张谓",
     "content": "一权寒梅白玉条，迥临村路傍溪桥。\n不知近水花先发，疑是经冬雪未销。"
   },
   {
+    "id": "shuimotangshi#66",
     "title": "登高",
     "author": "杜甫",
     "content": "风急天高猿啸哀，渚清沙白鸟飞回。\n无边落木萧萧下，不尽长江滚滚来。\n万里悲秋常作客，百年多病独登台。\n艰难苦恨繁霜鬓，潦倒新停浊酒杯。"
   },
   {
+    "id": "shuimotangshi#67",
     "title": "登楼",
     "author": "杜甫",
     "content": "花近高楼伤客心，万方多难此登临。\n锦江春色来天地，玉垒浮云变古今。\n北极朝廷终不改，西山寇盗莫相侵。\n可怜后主还祠庙，日暮聊为《梁父吟》。"
   },
   {
+    "id": "shuimotangshi#68",
     "title": "野望",
     "author": "杜甫",
     "content": "西山白雪三城戍，南浦清江万里桥。\n海内风尘诸弟隔，天涯涕泪一身遥。\n惟将迟暮供多病，未有涓埃答圣朝。\n跨马出郊时极目，不堪人事日萧条。"
   },
   {
+    "id": "shuimotangshi#69",
     "title": "阁夜",
     "author": "杜甫",
     "content": "岁暮阴阳催短景，天涯霜雪霁寒宵。\n五更鼓角声悲壮，三峡星河影动摇。\n野哭几家闻战伐，夷歌数处起渔樵。\n卧龙跃马终黄土，人事音书漫寂寥。"
   },
   {
+    "id": "shuimotangshi#70",
     "title": "客至",
     "author": "杜甫",
     "content": "舍南舍北皆春水，但见群鸥日日来。\n花径不曾缘客扫，蓬门今始为君开。\n盘飧市远无兼味，樽酒家贫只旧醅。\n肯与邻翁相对饮，隔篱呼取尽馀杯。"
   },
   {
+    "id": "shuimotangshi#71",
     "title": "绝句三首",
     "author": "杜甫",
     "content": "前年渝州杀刺史，今年开州杀刺吏。\n群盗相随剧虎狼，食人更肯留妻子。\n二十一人同入蜀。\n惟残一人出骆谷。\n自说二女啮臂时，回头却向秦云器。\n殿前兵马虽骁雄，纵暴略与羌浑同。\n闻道杀人汉水上，妇女多在官军中。"
   },
   {
+    "id": "shuimotangshi#72",
     "title": "江南逢李龟年",
     "author": "杜甫",
     "content": "岐王宅里寻常见，崔九堂前几度闻。\n正是江南好风景，落花时节又逢君。"
   },
   {
+    "id": "shuimotangshi#73",
     "title": "赠花卿",
     "author": "杜甫",
     "content": "锦城丝管日纷纷，半入江风半入云。\n此曲只应天上有，人间能得几回闻？"
   },
   {
+    "id": "shuimotangshi#74",
     "title": "江畔独步寻花",
     "author": "杜甫",
     "content": "黄四娘家花满蹊，千朵万朵压枝低。\n留连戏蝶时时舞，自在娇莺恰恰啼。"
   },
   {
+    "id": "shuimotangshi#75",
     "title": "绝句",
     "author": "杜甫",
     "content": "两个黄鹂鸣翠柳，一行白鹭上青天。\n窗含西岭千秋雪，门泊东吴万里船。"
   },
   {
+    "id": "shuimotangshi#76",
     "title": "旅夜书怀",
     "author": "杜甫",
     "content": "细草微风岸，危樯独夜舟。\n星垂平野阔，月涌大江流。\n名岂文章著，官应老病休。\n飘飘何所似，天地一沙鸥。"
   },
   {
+    "id": "shuimotangshi#77",
     "title": "别房太尉墓",
     "author": "杜甫",
     "content": "他乡复行役，驻马别孤坟。\n近泪无干土，低空有断云。\n对棋陪谢傅，把剑觅徐君。\n唯见林花落，莺啼送客闻。"
   },
   {
+    "id": "shuimotangshi#78",
     "title": "登岳阳楼",
     "author": "杜甫",
     "content": "昔闻洞庭水，今上岳阳楼。\n吴楚东南坼，乾坤日夜浮。\n亲朋无一字，老病有孤舟。\n戎马关山北，凭轩涕泗流。"
   },
   {
+    "id": "shuimotangshi#79",
     "title": "望岳",
     "author": "杜甫",
     "content": "岱宗夫如何？齐鲁青未了。\n造化钟神秀，阴阳割昏晓。\n荡胸生层云，决眦入归鸟。\n会当凌绝顶，一览众山小。"
   },
   {
+    "id": "shuimotangshi#80",
     "title": "春宿左省",
     "author": "杜甫",
     "content": "花隐掖垣暮，啾啾栖鸟过。\n星临万户动，月傍九霄多。\n不寝听金钥，因风想玉珂。\n明朝有封事，数问夜如何？"
   },
   {
+    "id": "shuimotangshi#81",
     "title": "八阵图",
     "author": "杜甫",
     "content": "功盖三分国，名成八阵图。\n江流石不转，遗恨失吞吴。"
   },
   {
+    "id": "shuimotangshi#82",
     "title": "黄鹤楼",
     "author": "崔颢",
     "content": "昔人已乘黄鹤去，此地空余黄鹤楼。\n黄鹤一去不复返，白云千载空悠悠。\n晴川历历汉阳树，芳草萋萋鹦鹉洲。\n日暮乡关何处是？烟波江上使人愁。"
   },
   {
+    "id": "shuimotangshi#83",
     "title": "次北固山下",
     "author": "王湾",
     "content": "客路青山外，行舟绿水前。\n潮平两岸阔，风正一帆悬。\n海日生残夜，江春入旧年。\n乡书何处达？归雁洛阳边。"
   },
   {
+    "id": "shuimotangshi#84",
     "title": "登金陵凤凰台",
     "author": "李白",
     "content": "凤凰台上凤凰游，凤去台空江自流。\n吴宫花草埋幽径，晋代衣冠成古丘。\n三山半落青天外，一水中分白鹭洲。\n总为浮云能蔽日，长安不见使人愁。"
   },
   {
+    "id": "shuimotangshi#85",
     "title": "黄鹤楼送孟浩然之广陵",
     "author": "李白",
     "content": "故人西辞黄鹤楼，烟花三月下扬州。\n孤帆远影碧空尽，惟见长江天际流。"
   },
   {
+    "id": "shuimotangshi#86",
     "title": "早发白帝城",
     "author": "李白",
     "content": "朝辞白帝彩云间，千里江陵一日还。\n两岸猿声啼不住，轻舟已过万重山。"
   },
   {
+    "id": "shuimotangshi#87",
     "title": "夜泊牛渚怀古",
     "author": "李白",
     "content": "牛渚西江夜，青天无片云。\n登舟望秋月，空忆谢将军。\n余亦能高咏，斯人不可闻。\n明朝挂帆席，枫叶落纷纷。"
   },
   {
+    "id": "shuimotangshi#88",
     "title": "子夜吴歌",
     "author": "李白",
     "content": "长安一片月，万户捣衣声。\n秋风吹不尽，总是玉关情。\n何日平胡虏，良人罢远征。"
   },
   {
+    "id": "shuimotangshi#89",
     "title": "古朗月行（节选）",
     "author": "李白",
     "content": "小时不识月，呼作白玉盘。\n又疑瑶台镜，飞在青云端。\n仙人垂两足，桂树何团团。\n白兔捣药成，问言与谁餐。"
   },
   {
+    "id": "shuimotangshi#90",
     "title": "秋浦歌",
     "author": "李白",
     "content": "白发三千丈，缘愁似个长。\n不知明镜里，何处得秋霜？"
   },
   {
+    "id": "shuimotangshi#91",
     "title": "怨情",
     "author": "李白",
     "content": "美人卷珠帘，深坐颦蛾眉。\n但见泪痕湿，不知心恨谁？"
   },
   {
+    "id": "shuimotangshi#92",
     "title": "送李少府贬峡中 王少府贬长沙",
     "author": "高适",
     "content": "嗟君此别意何如，驻马衔杯问谪居。\n巫峡啼猿数行泪，衡阳归雁几封书。\n青枫江上秋帆远，白帝城边古木疏。\n圣代即今多雨露，暂时分手莫踌躇。"
   },
   {
+    "id": "shuimotangshi#93",
     "title": "别董大",
     "author": "高适",
     "content": "千里黄云白日曛，北风吹雁雪纷纷。\n莫愁前路无知己，天下谁人不识君？"
   },
   {
+    "id": "shuimotangshi#94",
     "title": "九月九日忆山东兄弟",
     "author": "王维",
     "content": "独在异乡为异客，每逢佳节倍思亲。\n遥知兄弟登高处，遍插茱萸少一人。"
   },
   {
+    "id": "shuimotangshi#95",
     "title": "送元二使安西",
     "author": "王维",
     "content": "渭城朝雨浥轻尘，客舍青青柳色新。\n劝君更尽一杯酒，西出阳关无故人。"
   },
   {
+    "id": "shuimotangshi#96",
     "title": "嫦娥",
     "author": "李商隐",
     "content": "云母屏风烛影深，长河渐落晓星沉。\n嫦娥应悔偷灵药，碧海青天夜夜心。"
   },
   {
+    "id": "shuimotangshi#97",
     "title": "锦瑟",
     "author": "李商隐",
     "content": "锦瑟无端五十弦，一弦一柱思华年。\n庄生晓梦迷蝴蝶，望帝春心托杜鹃。\n沧海月明珠有泪，蓝田日暖玉生烟。\n此情可待成追忆，只是当时已惘然。"
   },
   {
+    "id": "shuimotangshi#98",
     "title": "汉江临眺",
     "author": "王维",
     "content": "楚塞三湘接，荆门九派通。\n江流天地外，山色有无中。\n郡邑浮前浦，波澜动远空。\n襄阳好风日，留醉与山翁。"
   },
   {
+    "id": "shuimotangshi#99",
     "title": "送黎拾遗",
     "author": "王维",
     "content": "相送临高台，川原杳何极！日暮飞鸟还，行人去不息。"
   },
   {
+    "id": "shuimotangshi#100",
     "title": "竹里馆",
     "author": "王维",
     "content": "独坐幽篁里，弹琴复长啸。\n深林人不知，明月来相照。"
   },
   {
+    "id": "shuimotangshi#101",
     "title": "相思",
     "author": "王维",
     "content": "红豆生南国，春来发几枝？愿君多采撷，此物最相思。"
   },
   {
+    "id": "shuimotangshi#102",
     "title": "送别",
     "author": "王维",
     "content": "山中相送罢，日暮掩柴扉。\n春草明年绿，王孙归不归？"
   },
   {
+    "id": "shuimotangshi#103",
     "title": "鹿柴",
     "author": "王维",
     "content": "空山不见人，但闻人语响。\n返影入深林，复照青苔上。"
   },
   {
+    "id": "shuimotangshi#104",
     "title": "鸟鸣涧",
     "author": "王维",
     "content": "人闲桂花落，夜静春山空。\n月出惊山鸟，时鸣春涧中。"
   },
   {
+    "id": "shuimotangshi#105",
     "title": "终南望余雪",
     "author": "祖咏",
     "content": "终南阴岭秀，积雪浮云端。\n林表明霁色，城中增暮寒。"
   },
   {
+    "id": "shuimotangshi#106",
     "title": "芙蓉楼送辛渐",
     "author": "王昌龄",
     "content": "寒雨连江夜入吴，平明送客楚江孤。\n洛阳亲友如相问，一片冰心在玉壶。"
   },
   {
+    "id": "shuimotangshi#107",
     "title": "出塞",
     "author": "王昌龄",
     "content": "秦时明月汉时关，万里长征人未还。\n但使龙城飞将在，不教胡马度阴山。"
   },
   {
+    "id": "shuimotangshi#108",
     "title": "塞下曲",
     "author": "王昌龄",
     "content": "饮马渡秋水，水寒风似刀。\n平沙日未没，黯黯见临洮。\n昔日长城战，咸言意气高。\n黄尘足今古，白骨乱蓬蒿。"
   },
   {
+    "id": "shuimotangshi#109",
     "title": "塞上曲",
     "author": "王昌龄",
     "content": "蝉鸣空桑林，八月萧关道。\n出塞复入塞，处处共芦草。\n从来幽并客，皆共尘沙老。\n莫学游侠儿，矜夸紫骝好。"
   },
   {
+    "id": "shuimotangshi#110",
     "title": "早寒有怀",
     "author": "孟浩然",
     "content": "木落雁南度，北风江上寒。\n我家襄水曲，遥隔楚云端。\n乡泪客中尽，孤帆天际看。\n迷津欲有问，平海夕漫漫。"
   },
   {
+    "id": "shuimotangshi#111",
     "title": "过故人庄",
     "author": "孟浩然",
     "content": "故人具鸡黍，邀我至田家。\n绿树村边合，青山郭外斜。\n开轩面场圃，把酒话桑麻。\n待到重阳日，还来就菊花。"
   },
   {
+    "id": "shuimotangshi#112",
     "title": "岁暮归南山",
     "author": "孟浩然",
     "content": "北阙休上书，南山归敝庐。\n不才明主弃，多病故人疏。\n白发催年老，青阳逼岁除。\n永怀愁不寐，松月夜窗虚。"
   },
   {
+    "id": "shuimotangshi#113",
     "title": "宿建德江",
     "author": "孟浩然",
     "content": "移舟泊烟渚，日暮客愁新。\n野旷天低树，江清月近人。"
   },
   {
+    "id": "shuimotangshi#114",
     "title": "咏柳",
     "author": "贺知章",
     "content": "碧玉妆成一树高，万条垂下绿丝绦。\n不知细叶谁裁出，二月春风似剪刀。"
   },
   {
+    "id": "shuimotangshi#115",
     "title": "登幽州台歌",
     "author": "陈子昂",
     "content": "前不见古人，后不见来者。\n念天地之悠悠，独怆然而涕下！"
   },
   {
+    "id": "shuimotangshi#116",
     "title": "晓发",
     "author": "贺知章",
     "content": "故乡杳无际，江皋闻曙钟。\n始见沙上鸟，犹埋云外峰。"
   },
   {
+    "id": "shuimotangshi#117",
     "title": "易水送人",
     "author": "骆宾王",
     "content": "此地别燕丹，壮发上冲冠。\n昔时人已没，今日水犹寒。"
   },
   {
+    "id": "shuimotangshi#118",
     "title": "早春",
     "author": "韩愈",
     "content": "天街小雨润如酥，草色遥看近却无。\n最是一年春好处，绝胜烟柳满皇都。"
   },
   {
+    "id": "shuimotangshi#119",
     "title": "问刘十九",
     "author": "白居易",
     "content": "绿蚁新醅酒，红泥小火炉。\n晚来天欲雪，能饮一杯无？"
   },
   {
+    "id": "shuimotangshi#120",
     "title": "闺怨词",
     "author": "白居易",
     "content": "关山征戍远，闺阁别离难。\n苦战应憔悴，寒衣不要宽。"
   },
   {
+    "id": "shuimotangshi#121",
     "title": "赋得古原草送别",
     "author": "白居易",
     "content": "离离原上草，一岁一枯荣。\n野火烧不尽，春风吹又生。"
   },
   {
+    "id": "shuimotangshi#122",
     "title": "浪淘沙",
     "author": "刘禹锡",
     "content": "九曲黄河万里沙，浪淘风簸自天涯。\n如今直上银河去，同到牵牛织女家。"
   },
   {
+    "id": "shuimotangshi#123",
     "title": "望洞庭",
     "author": "刘禹锡",
     "content": "湖光秋月两相和，潭面无风镜未磨。\n遥望洞庭山水翠，白银盘里一青螺。"
   },
   {
+    "id": "shuimotangshi#124",
     "title": "乌衣巷",
     "author": "刘禹锡",
     "content": "朱雀桥边野草花，乌衣巷口夕阳斜。\n旧时王谢堂前燕，飞入寻常百姓家。"
   },
   {
+    "id": "shuimotangshi#125",
     "title": "竹枝词",
     "author": "刘禹锡",
     "content": "杨柳青青江水平，闻郎江上唱歌声。\n东边日出西边雨，道是无晴还有晴。"
   },
   {
+    "id": "shuimotangshi#126",
     "title": "西塞山怀古",
     "author": "刘禹锡",
     "content": "王浚楼船下益州，金陵王气黯然收。\n千寻铁锁沉江底，一片降幡出石头。\n人世几回伤往事，山形依旧枕寒流。\n从今四海为家日，故垒萧萧芦荻秋。"
   },
   {
+    "id": "shuimotangshi#127",
     "title": "春词",
     "author": "刘禹锡",
     "content": "新妆宜面下朱楼，深锁春光一院愁。\n行到中庭数花朵，蜻蜓飞上玉搔头。"
   },
   {
+    "id": "shuimotangshi#128",
     "title": "石头城",
     "author": "刘禹锡",
     "content": "山围故国周遭在，潮打空城寂寞回。\n淮水东边旧时月，夜深还过女墙来。"
   },
   {
+    "id": "shuimotangshi#129",
     "title": "雁门太守行",
     "author": "李贺",
     "content": "黑云压城城欲催，甲光向日金鳞开。\n角声满天秋色里，塞上燕脂凝夜紫。\n半卷红旗临易水，霜重鼓寒声不起。\n报君黄金台上意，提携玉龙为君死。"
   },
   {
+    "id": "shuimotangshi#130",
     "title": "卖炭翁",
     "author": "白居易",
     "content": "卖炭翁，伐薪烧炭南山中。\n满面尘灰烟火色，两鬓苍苍十指黑。\n卖炭得钱何所营，身上衣裳口中食。\n可怜身上衣正单，心忧炭贱愿天寒。\n夜来城外一尺雪，晓驾炭车辗冰辙。\n牛困人饥日已高，市南门外泥中歇。\n翩翩两骑来是谁？黄衣使者白衫儿。\n手把文书口称敕，回车叱牛牵向北。\n一车炭，千余斤，宫使驱将惜不得。\n半匹红纱一丈绫，系向牛头充炭值。"
   },
   {
+    "id": "shuimotangshi#131",
     "title": "悯农（之二）",
     "author": "李绅",
     "content": "春种一粒粟，秋收万颗子。\n四海无闲田，农夫犹饿死。"
   },
   {
+    "id": "shuimotangshi#132",
     "title": "暮江吟",
     "author": "白居易",
     "content": "一道残阳铺水中，半江瑟瑟半江红。\n可怜九月初三夜，露似珍珠月似弓。"
   },
   {
+    "id": "shuimotangshi#133",
     "title": "大林寺桃花",
     "author": "白居易",
     "content": "人间四月芳菲尽，山寺桃花始盛开。\n长恨春归无觅处，不知转入此中来。"
   },
   {
-    "title": "村民苦寒（节选）",
+    "id": "shuimotangshi#134",
+    "title": "村民苦寒",
     "author": "白居易",
-    "content": "八年十二月，五日雪纷纷。\n竹柏皆冻死，况彼无衣民。\n回观村闾间，十室八九贫。\n北风利如剑，布絮不蔽身。\n唯烧蒿棘火，愁坐夜待晨。"
+    "content": "八年十二月，五日雪纷纷。\n竹柏皆冻死，况彼无衣民。\n回观村闾间，十室八九贫。\n北风利如剑，布絮不蔽身。\n唯烧蒿棘火，愁坐夜待晨。\n乃知大寒岁，农者尤苦辛。\n顾我当此日，草堂深掩门。\n褐裘覆絁被，坐卧有余温。\n幸免饥冻苦，又无垄亩勤。\n念彼深可愧，自问是何人。"
   },
   {
+    "id": "shuimotangshi#135",
     "title": "别州民",
     "author": "白居易",
     "content": "耆老遮归路，壶浆满别筵。\n甘棠一无树，那得泪潸然。\n税重多贫户，农饥足旱田。\n唯留一湖水，与汝救凶年。"
   },
   {
+    "id": "shuimotangshi#136",
     "title": "池上",
     "author": "白居易",
     "content": "小娃撑小艇，偷采白莲回。\n不解藏踪迹，浮萍一道开。"
   },
   {
+    "id": "shuimotangshi#137",
     "title": "悯农（之一）",
     "author": "李绅",
     "content": "锄禾日当午，汗滴禾下土。\n谁知盘中餐，粒粒皆辛苦。"
   },
   {
+    "id": "shuimotangshi#138",
     "title": "马诗",
     "author": "李贺",
     "content": "大漠沙如雪，燕山月似钩。\n何当金络脑，快走踏清秋。"
   },
   {
+    "id": "shuimotangshi#139",
     "title": "山行",
     "author": "杜牧",
     "content": "远目寒山石径斜，白云生处有人家。\n停车坐爱枫林晚，霜叶红于二月花。"
   },
   {
+    "id": "shuimotangshi#140",
     "title": "清明",
     "author": "杜牧",
     "content": "清明时节雨纷纷，路上行人欲断魂。\n借问酒家何处有？牧童遥指杏花村。"
   },
   {
+    "id": "shuimotangshi#141",
     "title": "江南春",
     "author": "杜牧",
     "content": "千里莺啼绿映红，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。"
   },
   {
+    "id": "shuimotangshi#142",
     "title": "秋夕",
     "author": "杜牧",
     "content": "银烛秋光冷画屏，轻罗小扇扑流萤。\n天阶夜色凉如水，坐看牵牛织女星。"
   },
   {
+    "id": "shuimotangshi#143",
     "title": "鹭鸶",
     "author": "杜牧",
     "content": "雪衣雪发青玉嘴，群捕鱼儿溪影中。\n惊飞远映碧山去，一树梨花落晚风。"
   },
   {
+    "id": "shuimotangshi#144",
     "title": "灞上秋居",
     "author": "马戴",
     "content": "灞原风雨定，晚见雁行频。\n落叶他乡树，寒灯独夜人。\n空园白露滴，孤壁野僧邻。\n寄卧郊扉久，何年致此身？"
   },
   {
+    "id": "shuimotangshi#145",
     "title": "渡汉江",
     "author": "李频",
     "content": "岭外音书绝，经冬复立春。\n近乡情更怯，不敢问来人。"
   },
   {
+    "id": "shuimotangshi#146",
     "title": "蜂",
     "author": "罗隐",
     "content": "不论平地与山尖，无限风光尽被占。\n采得百花成蜜后，为谁辛苦为谁甜？"
   },
   {
+    "id": "shuimotangshi#147",
     "title": "筹笔驿",
     "author": "李商隐",
     "content": "猿鸟犹疑畏简书，风云长为护储胥。\n徒令上将挥神笔，终见降王走传车。\n管乐有才真不忝，关张无命欲何如。\n他年锦里经祠庙，梁父吟成恨有余。"
   },
   {
+    "id": "shuimotangshi#148",
     "title": "春雨",
     "author": "李商隐",
     "content": "怅卧新春白袷衣，白门寥落意多违。\n红楼隔雨相望冷，珠箔飘灯独自归。\n远路应悲春晼晚，残宵犹得梦依稀。\n玉铛缄札何由达，万里云罗一雁飞。"
   },
   {
+    "id": "shuimotangshi#149",
     "title": "陇西行",
     "author": "陈陶",
     "content": "誓扫匈奴不顾身，五千貂锦丧胡尘。\n可怜无定河边骨，犹是春闺梦里人。"
   },
   {
+    "id": "shuimotangshi#150",
     "title": "登乐游原",
     "author": "李商隐",
     "content": "向晚意不适，驱车登古原。\n夕阳无限好，只是近黄昏。"
   },
   {
+    "id": "shuimotangshi#151",
     "title": "落花",
     "author": "李商隐",
     "content": "高阁客竟去，小园花乱飞。\n参差连曲陌，迢递送斜晖。\n肠断未忍扫，眼穿仍仍欲归。\n芳心向春尽，所得是沾衣。"
   },
   {
+    "id": "shuimotangshi#152",
     "title": "风雨",
     "author": "李商隐",
     "content": "凄凉宝剑篇，羁泊欲穷年。\n黄叶仍风雨，青楼自管弦。\n新知遭薄俗，旧好隔良缘。\n心断新丰酒，销愁又几千。"
   },
   {
+    "id": "shuimotangshi#153",
     "title": "蝉",
     "author": "李商隐",
     "content": "本以高难饱，徒劳恨费声。\n五更疏欲断，一树碧无情。\n薄宦梗犹泛，故园芜已平。\n烦君最相警，我亦举家清。"
   },
   {
+    "id": "shuimotangshi#154",
     "title": "瑶瑟怨",
     "author": "温庭筠",
     "content": "冰簟银床梦不成，碧天如水夜云轻。\n雁声远过潇湘去，十二楼中月自明。"
   },
   {
+    "id": "shuimotangshi#155",
     "title": "送人东归",
     "author": "温庭筠",
     "content": "荒戍落黄叶，浩然离故关。\n高风汉阳渡，初日郢门山。\n江上几人在，天涯孤棹还。\n何当重相见，尊酒慰离颜。"
   },
   {
+    "id": "shuimotangshi#156",
     "title": "早秋",
     "author": "许浑",
     "content": "遥夜泛清瑟，西风生翠萝。\n残萤西玉露，早雁拂金河。\n高树晓还密，远山晴更多。\n淮南一叶下，自觉洞庭波。"
   },
   {
+    "id": "shuimotangshi#157",
     "title": "秋日赴阙题潼关驿楼",
     "author": "许浑",
     "content": "红叶晚萧萧，长亭酒一瓢。\n残云归太华，疏雨过中条。\n树色随关迥，河声入海遥。\n帝乡明日到，犹自梦渔樵。"
   },
   {
+    "id": "shuimotangshi#158",
     "title": "宫词",
     "author": "朱庆馀",
     "content": "寂寂花时闭院门，美人相并立琼轩。\n含情欲说宫中事，鹦鹉前头不敢言。"
   },
   {
+    "id": "shuimotangshi#159",
     "title": "题金陵渡",
     "author": "张祜",
     "content": "金陵津渡小山楼，一宿行人自可愁。\n潮落夜江斜月里，两三星火是瓜洲。"
   },
   {
+    "id": "shuimotangshi#160",
     "title": "何满子",
     "author": "张祜",
     "content": "故国三千里，深宫二十年。\n一声何满子，双泪落君前。"
   },
   {
+    "id": "shuimotangshi#161",
     "title": "遣怀",
     "author": "杜牧",
     "content": "落魄江湖载酒行，楚腰纤细掌中轻。\n十年一觉扬中梦，赢得青楼薄幸名。"
   },
   {
+    "id": "shuimotangshi#162",
     "title": "赤壁",
     "author": "杜牧",
     "content": "折戟沉沙铁未销，自将磨洗认前朝。\n东风不与周郎便，铜雀春深锁二乔。"
   },
   {
+    "id": "shuimotangshi#163",
     "title": "将赴吴兴登乐游原",
     "author": "杜牧",
     "content": "清明有味是无能，闲爱孤云静爱僧。\n欲把一麾江海去，乐游原上望昭陵。"
   },
   {
+    "id": "shuimotangshi#164",
     "title": "寄扬州韩绰判官",
     "author": "杜牧",
     "content": "青山隐隐水迢迢，秋尽江南草木凋。\n二十四桥明月夜，玉人何处教吹箫。"
   },
   {
+    "id": "shuimotangshi#165",
     "title": "金谷园",
     "author": "杜牧",
     "content": "繁华事散逐香尘，流水无情草自春。\n日暮东风怨啼鸟，落花犹似坠楼人。"
   },
   {
+    "id": "shuimotangshi#166",
     "title": "泊秦淮",
     "author": "杜牧",
     "content": "烟笼寒水月笼沙，夜泊秦淮近酒家。\n商女不知亡国恨，隔江犹唱后庭花。"
   },
   {
+    "id": "shuimotangshi#167",
     "title": "旅宿",
     "author": "杜牧",
     "content": "旅馆无良伴，凝情自悄然。\n寒灯思旧事，断雁警愁眠。\n远梦归侵晓，家书到隔年。\n沧江好烟月，门系钓鱼船。"
   },
   {
+    "id": "shuimotangshi#168",
     "title": "哥舒歌",
     "author": "西鄙人",
     "content": "北斗七星高，哥舒夜带刀。\n至今窥牧马，不敢过临洮。"
   },
   {
+    "id": "shuimotangshi#169",
     "title": "贫女",
     "author": "秦韬玉",
     "content": "蓬门未识绮罗香，拟托良媒益自伤。\n谁爱风流高格调，共怜时世俭梳妆。\n敢将十指夸针巧，不把双眉斗画长。\n苦恨年年压金线，为他人作嫁衣裳。"
   },
   {
+    "id": "shuimotangshi#170",
     "title": "孤雁",
     "author": "崔涂",
     "content": "几行归塞尽，念尔独何之？暮雨相呼失，寒塘欲下迟。\n渚云低暗度，关月冷相随。\n未必逢矰缴，孤飞自可疑。"
   },
   {
+    "id": "shuimotangshi#171",
     "title": "除夜有怀",
     "author": "崔涂",
     "content": "迢递三巴路，羁危万里身。\n乱山残雪夜，孤独异乡人。\n渐与骨肉远，转于童仆亲。\n那堪正漂泊，明日岁华新。"
   },
   {
+    "id": "shuimotangshi#172",
     "title": "再经胡城县",
     "author": "杜荀鹤",
     "content": "去岁曾经此县城，县民无口不冤声。\n今来县宰加朱绂，便是生灵血染成。"
   },
   {
+    "id": "shuimotangshi#173",
     "title": "春怨",
     "author": "金昌绪",
     "content": "打起黄莺儿，莫教枝上啼。\n啼时惊妾梦，不得到辽西。"
   },
   {
+    "id": "shuimotangshi#174",
     "title": "书边事",
     "author": "张乔",
     "content": "调角断清秋，征人倚戍楼。\n春风对青冢，白日落梁州。\n大漠无兵阻，穷边有客游。\n蕃情似此水，长愿向南流。"
   },
   {
+    "id": "shuimotangshi#175",
     "title": "台城",
     "author": "韦庄",
     "content": "江雨霏霏江草齐，六朝如梦鸟空啼。\n无情最是台城柳，依旧烟笼十里堤。"
   },
   {
+    "id": "shuimotangshi#176",
     "title": "章台夜思",
     "author": "韦庄",
     "content": "清瑟怨遥夜，绕弦风雨哀。\n孤灯闻楚角，残月下章台。\n芳草已云暮，故人殊未来。\n乡书不可寄，秋雁又南回。"
